@@ -1,0 +1,59 @@
+{
+  "name": "liberacao",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.0.1",
+    "@types/bootstrap": "^4.3.0",
+    "antd": "^3.19.1",
+    "axios": "^0.19.0",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "mdbootstrap": "^4.8.1",
+    "mdbreact": "^4.14.0",
+    "popper.js": "^1.15.0",
+    "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.8",
+    "react-burger-menu": "^2.6.10",
+    "react-datepicker": "^2.5.0",
+    "react-dom": "^16.8.6",
+    "react-md": "^1.12.1",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "3.0.1",
+    "reactstrap": "^8.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunowf/Liberacao.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunowf/Liberacao/issues"
+  },
+  "homepage": "https://github.com/brunowf/Liberacao#readme"
+}

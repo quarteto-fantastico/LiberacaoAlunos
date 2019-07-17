@@ -1,0 +1,15 @@
+export default {
+      id: "favorite_border-usage",
+      viewBox: "0 0 24 24",
+      url: __webpack_public_path__ + "icon-sprites.35968e75.svg#favorite_border-usage",
+      toString: function () {
+        return this.url;
+      }
+    }
+
+
+//////////////////
+// WEBPACK FOOTER
+// ./src/icons/favorite_border.svg
+// module id = KJXc
+// module chunks = 19
